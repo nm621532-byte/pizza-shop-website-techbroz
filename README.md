@@ -3,7 +3,7 @@
 Ek chhoti si **pizza shop website**, jo humne Instagram Reel mein **Tech Bro Z Code Editor** mein live banayi aur badli.
 
 🌐 Live website: https://nm621532-byte.github.io/pizza-shop-website-techbroz/
-🎬 Instagram Reel: link soon
+🎬 Instagram Reel: https://www.instagram.com/reel/DfLn1omHYnV/
 
 ## Isme kya hai?
 - Pizzas ki list JavaScript array mein, `map()` se har pizza ka card
