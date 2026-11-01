@@ -1,0 +1,30 @@
+body {
+  font-family: sans-serif;
+  background: #1c1917;
+  color: #fafaf9;
+  padding: 12px;
+}
+h1 { margin: 0; color: #fb923c; font-family: Georgia; }
+#menu {
+  display: grid;
+  gap: 12px;
+  grid-template-columns: 1fr 1fr;
+}
+.card {
+  border: none;
+  border-radius: 16px;
+  background: #292524;
+  box-shadow: 0 4px 16px #f97316;
+  padding: 8px;
+  text-align: center;
+}
+.card span { font-size: 36px; }
+.card p { margin: 4px 0; }
+button {
+  width: 100%;
+  padding: 6px;
+  background: #dc2626;
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+}
